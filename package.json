@@ -1,6 +1,6 @@
 {
   "name": "@menelaia/eslint-config-react",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Eslint config for React projects",
   "main": "index.js",
   "dependencies": {
